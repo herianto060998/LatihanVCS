@@ -21,5 +21,11 @@ Jika sudah selesai mendownload klik "next" setiap tab lanjut menginstal git
 ini adalah tampilannya
 ![Gambar4](tab_screenshoot/ss4.png.png)
  
- ### PROSES MENGINSTAL GIT
- 
+### PROSES MENGINSTAL GIT
+cek apakah GIT sudah terinstal dengan cara "cmd > git version"
+ini adalah tampilannya
+![Gambar5](tab_screenshoot/ss5.png.png)
+
+### PROSES MENGINSTAL GIT
+
+
