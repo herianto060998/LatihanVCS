@@ -26,6 +26,4 @@ cek apakah GIT sudah terinstal dengan cara "cmd > git version"
 ini adalah tampilannya
 ![Gambar5](tab_screenshoot/ss5.png.png)
 
-### PROSES MENGINSTAL GIT
-
-
+### PROSES MENJALANKAN GIT
