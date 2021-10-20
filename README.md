@@ -35,10 +35,13 @@ tampilannya
 git status setelah melakukan perubahan pada README.md<p>
 git add README.md perintah untuk menambahkan file baru,atau ada perubahan pada file repository local menuju server repository<p>
 git commit -m "berisikan komentar" perintah untuk menyimpan perubahan kedalam database git<p>
-git push -u origin main perintah untuk mengirim perubahan pada repository local menuju server repository<p>
-tampilannyannya
+tampilannya
 ![Gambar7](tab_screenshoot/ss7.png.png)
 
 ### PROSES MENJALANKAN GIT
+git push -u origin main perintah untuk mengirim perubahan pada repository local menuju server repository<p>
+tampilannya
+![Gambar8](tab_screenshoot/ss8.png.png)
+
 
 
