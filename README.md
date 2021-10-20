@@ -43,5 +43,17 @@ git push -u origin main perintah untuk mengirim perubahan pada repository local 
 tampilannya
 ![Gambar8](tab_screenshoot/ss8.png.png)
 
+### PROSES MEMBUAT REPOSITORY
+klik "create repositor" untuk membuat file repository<p>
+![Gambar9](tab_screenshoot/ss9.png.png)
+jika sudah, buat judul dari file repository yang dibuat
+![Gambar10](tab_screenshoot/ss10.png.png)
+
+### PROSES MENGHUBUNGKAN GIT DENGAN GITHUB
+![Gambar11](tab_screenshoot/ss11.png.png)
+![Gambar12](tab_screenshoot/ss12.png.png)
+![Gambar13](tab_screenshoot/ss13.png.png)
+![Gambar14](tab_screenshoot/ss14.png.png)
+
 
 
